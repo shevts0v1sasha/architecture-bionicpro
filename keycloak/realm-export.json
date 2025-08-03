@@ -1,5 +1,6 @@
 {
     "realm": "reports-realm",
+    "sslRequired": "NONE",
     "enabled": true,
     "roles": {
       "realm": [
